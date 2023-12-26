@@ -1,0 +1,3 @@
+[submodule "cocoon"]
+	path = cocoon
+	url = git@github.com:watarium/cocoon_drop.git
